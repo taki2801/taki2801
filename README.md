@@ -16,7 +16,10 @@ About Me
 Tech Stack
 
 Languages
-Dart • JavaScript • Java
+Dart • JavaScript • Java( stream processing )
+
+Functional interfaces , OOP) , PHP 
+
 
 Mobile Development
 Flutter
@@ -24,11 +27,13 @@ Flutter
 Frontend Development
 React • HTML • CSS • JavaScript
 
+
+
 Backend & Services
 Firebase • Firebase Authentication • REST APIs
 
 Tools
-Git • GitHub
+Git • GitHub version control , Collaborative code reviews , techinical documentation , Mysql
 
 Projects
 
